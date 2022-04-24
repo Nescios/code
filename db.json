@@ -22,6 +22,26 @@
     },
     {
       "id": 789,
+      "category": "hat",
+      "title": "Clothes",
+      "description": "Pick you hat.",
+      "location": "Saint-Cloud",
+      "date": "December 13, 2022",
+      "time": "17:00",
+      "organizer": "Maria Car"
+    },
+    {
+      "id": 101,
+      "category": "love",
+      "title": "Love animals",
+      "description": "Help animals in zoo.",
+      "location": "Nanterre",
+      "date": "March 22, 2022",
+      "time": "11:45",
+      "organizer": "Phill Collins"
+    },
+    {
+      "id": 103,
       "category": "sustainability",
       "title": "Beach Cleanup",
       "description": "Help pick up trash along the shore.",
